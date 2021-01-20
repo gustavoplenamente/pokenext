@@ -1,2 +1,3 @@
-# Pokénext
-Pokédex app built with React and Next.js
+![pokenext logo](static/pokenext-logo.png)
+
+#### Pokédex app built with React and Next.js
