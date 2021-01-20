@@ -16,7 +16,7 @@ export async function getStaticProps(context) {
 function Home({ pokemons }) {
     return (
         <div>
-            Pokédex
+            Pokédex!
             <ul>
                 {pokemons.map(pokemon => (
                     <li key={pokemon.entry_number}>
